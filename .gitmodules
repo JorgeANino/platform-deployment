@@ -1,0 +1,6 @@
+[submodule "platform-backend"]
+	path = platform-backend
+	url = git@github.com:JorgeANino/platform-backend.git
+[submodule "platform-docker"]
+	path = platform-docker
+	url = git@github.com:JorgeANino/platform-docker.git
