@@ -24,8 +24,9 @@ This is the product management API which allows users to create, read, update, a
     ```bash
     cd platform-deployment
     ```
-3. Run the following command
+3. Run the following commands:
     ```bash
+    chmod +x init_submodules.sh
     sudo sh init_submodules.sh
     ```
 4. cd into platform-docker:
